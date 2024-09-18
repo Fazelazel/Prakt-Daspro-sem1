@@ -1,0 +1,161 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "KelilingTrapesium",
+            "request": "launch",
+            "mainClass": "KelilingTrapesium",
+            "projectName": "Prakt Daspro_1733bb8e"
+        },
+        {
+            "type": "java",
+            "name": "WaktuTandon",
+            "request": "launch",
+            "mainClass": "WaktuTandon",
+            "projectName": "Prakt Daspro_1733bb8e"
+        },
+        {
+            "type": "java",
+            "name": "HitungKeramik",
+            "request": "launch",
+            "mainClass": "HitungKeramik",
+            "projectName": "Prakt Daspro_1733bb8e"
+        },
+        {
+            "type": "java",
+            "name": "LatihanQuiz",
+            "request": "launch",
+            "mainClass": "LatihanQuiz",
+            "projectName": "Prakt Daspro_1733bb8e"
+        },
+        {
+            "type": "java",
+            "name": "HargaBayar12",
+            "request": "launch",
+            "mainClass": "HargaBayar12",
+            "projectName": "Prakt Daspro_1733bb8e"
+        },
+        {
+            "type": "java",
+            "name": "Gaji12",
+            "request": "launch",
+            "mainClass": "Gaji12",
+            "projectName": "Prakt Daspro_1733bb8e"
+        },
+        {
+            "type": "java",
+            "name": "Lingkaran12",
+            "request": "launch",
+            "mainClass": "Lingkaran12",
+            "projectName": "Prakt Daspro_1733bb8e"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CekTahunKabisat",
+            "request": "launch",
+            "mainClass": "CekTahunKabisat",
+            "projectName": "Prakt Daspro_1733bb8e"
+        },
+        {
+            "type": "java",
+            "name": "ContohOperator12",
+            "request": "launch",
+            "mainClass": "ContohOperator12",
+            "projectName": "Prakt Daspro_1733bb8e"
+        },
+        {
+            "type": "java",
+            "name": "ContohTipeData12",
+            "request": "launch",
+            "mainClass": "ContohTipeData12",
+            "projectName": "Prakt Daspro_1733bb8e"
+        },
+        {
+            "type": "java",
+            "name": "ContohVariabel12",
+            "request": "launch",
+            "mainClass": "ContohVariabel12",
+            "projectName": "Prakt Daspro_1733bb8e"
+        },
+        {
+            "type": "java",
+            "name": "GajiKaryawan",
+            "request": "launch",
+            "mainClass": "GajiKaryawan",
+            "projectName": "Prakt Daspro_1733bb8e"
+        },
+        {
+            "type": "java",
+            "name": "Kafe12",
+            "request": "launch",
+            "mainClass": "Kafe12",
+            "projectName": "Prakt Daspro_1733bb8e"
+        },
+        {
+            "type": "java",
+            "name": "Latihan12",
+            "request": "launch",
+            "mainClass": "Latihan12",
+            "projectName": "Prakt Daspro_1733bb8e"
+        },
+        {
+            "type": "java",
+            "name": "MyFirstJava12",
+            "request": "launch",
+            "mainClass": "MyFirstJava12",
+            "projectName": "Prakt Daspro_1733bb8e"
+        },
+        {
+            "type": "java",
+            "name": "Siakad12",
+            "request": "launch",
+            "mainClass": "Siakad12",
+            "projectName": "Prakt Daspro_1733bb8e"
+        },
+        {
+            "type": "java",
+            "name": "TarifListrik",
+            "request": "launch",
+            "mainClass": "TarifListrik",
+            "projectName": "Prakt Daspro_1733bb8e"
+        },
+        {
+            "type": "java",
+            "name": "Tugas",
+            "request": "launch",
+            "mainClass": "Tugas",
+            "projectName": "Prakt Daspro_1733bb8e"
+        },
+        {
+            "type": "java",
+            "name": "tes",
+            "request": "launch",
+            "mainClass": "tes",
+            "projectName": "Prakt Daspro_1733bb8e"
+        },
+        {
+            "type": "java",
+            "name": "biodata_Kelompok",
+            "request": "launch",
+            "mainClass": "tugas_membuat_biodata.biodata_Kelompok",
+            "projectName": "Prakt Daspro_1733bb8e"
+        },
+        {
+            "type": "java",
+            "name": "Lingkaran12",
+            "request": "launch",
+            "mainClass": "Lingkaran12",
+            "projectName": "Prakt Daspro_1733bb8e"
+        }
+    ]
+}
