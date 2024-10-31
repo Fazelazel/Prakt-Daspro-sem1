@@ -22,7 +22,7 @@ public class HitungKeramik {
         //output
         System.out.println("Jumlah keramik yang dibutuhkan : " + jumlahKeramik);
 
-
+        input.close();
     }
     
 }

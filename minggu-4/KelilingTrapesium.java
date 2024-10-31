@@ -22,7 +22,7 @@ public class KelilingTrapesium {
         //output
         System.out.println("Keliling trapesium tersebut adalah " + keliling + " cm");
 
-
+        input.close();
     }
     
 }

@@ -6,6 +6,307 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Triangle12",
+            "request": "launch",
+            "mainClass": "minggu9.Triangle12",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "TugasSquare",
+            "request": "launch",
+            "mainClass": "minggu9.TugasSquare",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "AtletPorseni",
+            "request": "launch",
+            "mainClass": "minggu9.AtletPorseni",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "KelolaCafe",
+            "request": "launch",
+            "mainClass": "minggu9.KelolaCafe",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "KelolaNilaiMahasiswa",
+            "request": "launch",
+            "mainClass": "minggu9.KelolaNilaiMahasiswa",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "TesSearchNilai",
+            "request": "launch",
+            "mainClass": "minggu9.TesSearchNilai",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "SearchNilai12",
+            "request": "launch",
+            "mainClass": "minggu9.SearchNilai12",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "ArrayRataNilai",
+            "request": "launch",
+            "mainClass": "minggu9.ArrayRataNilai",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "ArrayNilai",
+            "request": "launch",
+            "mainClass": "minggu9.ArrayNilai",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "ArrayBilangan12",
+            "request": "launch",
+            "mainClass": "minggu9.ArrayBilangan12",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "AtletPorseni",
+            "request": "launch",
+            "mainClass": "minggu8.AtletPorseni",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "TesSquare",
+            "request": "launch",
+            "mainClass": "minggu8.TesSquare",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "TugasSquare",
+            "request": "launch",
+            "mainClass": "minggu8.TugasSquare",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "RataNilai12",
+            "request": "launch",
+            "mainClass": "minggu8.RataNilai12",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "Triangle12",
+            "request": "launch",
+            "mainClass": "minggu8.Triangle12",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "Square12",
+            "request": "launch",
+            "mainClass": "minggu8.Square12",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "Star12",
+            "request": "launch",
+            "mainClass": "minggu8.Star12",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "ZombievsPlant",
+            "request": "launch",
+            "mainClass": "ZombievsPlant",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "LatihanFibonacci",
+            "request": "launch",
+            "mainClass": "minggu7.LatihanFibonacci",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "LatihanPerkalian",
+            "request": "launch",
+            "mainClass": "minggu7.LatihanPerkalian",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "LatihanDecrement",
+            "request": "launch",
+            "mainClass": "minggu7.LatihanDecrement",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "Latihan1",
+            "request": "launch",
+            "mainClass": "minggu7.Latihan1",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "TotalBayarParkir2",
+            "request": "launch",
+            "mainClass": "minggu7.TotalBayarParkir2",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "PenjualanTiket",
+            "request": "launch",
+            "mainClass": "minggu7.PenjualanTiket",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "TotalBayarParkir",
+            "request": "launch",
+            "mainClass": "minggu7.TotalBayarParkir",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "TiketBioskop",
+            "request": "launch",
+            "mainClass": "minggu7.TiketBioskop",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "KafeDoWhile",
+            "request": "launch",
+            "mainClass": "minggu7.KafeDoWhile",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "SiakadWhile12",
+            "request": "launch",
+            "mainClass": "minggu7.SiakadWhile12",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "SiakadFor12",
+            "request": "launch",
+            "mainClass": "minggu7.SiakadFor12",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "HargaSepatu",
+            "request": "launch",
+            "mainClass": "HargaSepatu",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "TokoBuku",
+            "request": "launch",
+            "mainClass": "TokoBuku",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "BilanganTerbesar",
+            "request": "launch",
+            "mainClass": "BilanganTerbesar",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "Pemilihan2Percobaan3",
+            "request": "launch",
+            "mainClass": "Pemilihan2Percobaan3",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "Pemilihan2Percobaan2",
+            "request": "launch",
+            "mainClass": "Pemilihan2Percobaan2",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "Pemilihan2Percobaan1",
+            "request": "launch",
+            "mainClass": "Pemilihan2Percobaan1",
+            "projectName": "Codingan Java_f9d784c"
+        },
+        {
+            "type": "java",
+            "name": "Pemilihan2Percobaan1",
+            "request": "launch",
+            "mainClass": "Pemilihan2Percobaan1",
+            "projectName": "Codingan Java_98840812"
+        },
+        {
+            "type": "java",
+            "name": "KategoriUsia",
+            "request": "launch",
+            "mainClass": "KategoriUsia",
+            "projectName": "Codingan Java_98840812"
+        },
+        {
+            "type": "java",
+            "name": "Siakad12",
+            "request": "launch",
+            "mainClass": "Siakad12",
+            "projectName": "Codingan Java_98840812"
+        },
+        {
+            "type": "java",
+            "name": "Kafe12",
+            "request": "launch",
+            "mainClass": "Kafe12",
+            "projectName": "Codingan Java_98840812"
+        },
+        {
+            "type": "java",
+            "name": "PemilihanHariDenganif12",
+            "request": "launch",
+            "mainClass": "PemilihanHariDenganif12",
+            "projectName": "Codingan Java_98840812"
+        },
+        {
+            "type": "java",
+            "name": "PemilihanHari12",
+            "request": "launch",
+            "mainClass": "PemilihanHari12",
+            "projectName": "Codingan Java_98840812"
+        },
+        {
+            "type": "java",
+            "name": "PemilihanBilangan12",
+            "request": "launch",
+            "mainClass": "PemilihanBilangan12",
+            "projectName": "Codingan Java_98840812"
+        },
+        {
+            "type": "java",
+            "name": "KaloriAtlet",
+            "request": "launch",
+            "mainClass": "KaloriAtlet",
+            "projectName": "Prakt Daspro_1733bb8e"
+        },
+        {
+            "type": "java",
             "name": "KelilingTrapesium",
             "request": "launch",
             "mainClass": "KelilingTrapesium",

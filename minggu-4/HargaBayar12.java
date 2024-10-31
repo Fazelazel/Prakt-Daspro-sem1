@@ -23,6 +23,7 @@ public class HargaBayar12 {
         System.out.println("Diskon yang anda dapatkan adalah : " + jumlahDiskon);
         System.out.println("Jumlah yang harus anda bayar : " + bayar);
         
+        input.close();
     }
     
 }

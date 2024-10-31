@@ -19,5 +19,7 @@ public class Gaji12 {
 
         //output
         System.out.println("Total gaji anda : " + totalGaji);
+    
+    input.close();
     }
 }
